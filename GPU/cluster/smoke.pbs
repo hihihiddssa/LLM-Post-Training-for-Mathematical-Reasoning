@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "${PBS_O_WORKDIR:?}"
+module load python/3.12.1-gcc11
+module load cuda/12.8.1
+export HF_HOME="$HOME/AI6130-Ass2-G2605698H/hf-cache"
+export HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1 TOKENIZERS_PARALLELISM=false PYTHONUNBUFFERED=1 OMP_NUM_THREADS=8
+PY="$HOME/AI6130-Ass2-G2605698H/env/bin/python"
+exec > logs/gpu-smoke.log 2>&1
+nvidia-smi
+"$PY" -c 'import torch; assert torch.cuda.is_available() and torch.cuda.is_bf16_supported(); print(torch.cuda.get_device_name(0))'
+"$PY" tools/smoke.py
+for model in tinyllama openllama; do
+ for method in lora adapterp; do
+  "$PY" tools/train.py --model "$model" --method "$method" --smoke --resume
+  for task in AQuA AddSub; do
+   "$PY" tools/evaluate.py --run "runs/smoke-$model-$method-2ep" --task "$task" --limit 2
+  done
+ done
+done
+"$PY" tools/train.py --model tinyllama --method lora --smoke --smoke-steps 2 --stop-after-step 1 --run-tag resume-check --resume
+"$PY" tools/train.py --model tinyllama --method lora --smoke --smoke-steps 2 --run-tag resume-check --resume
+echo ALL_ASSIGNED_MODEL_SMOKE_TESTS_PASSED

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "${PBS_O_WORKDIR:?}"
+bash cluster/prepare_nscc.sh > logs/preparation.log 2>&1

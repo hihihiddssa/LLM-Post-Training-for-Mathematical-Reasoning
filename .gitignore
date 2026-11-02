@@ -1,0 +1,27 @@
+# Credentials and machine-specific cluster access
+GPU/access/
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+known_hosts*
+# Runtime environments, caches and heavyweight artifacts
+**/.venv/
+**/python-deps/
+**/__pycache__/
+*.pyc
+GPU/cache/
+GPU/hf-cache/
+GPU/deploy/
+GPU/publish/
+GPU/runs/
+**/checkpoint-*/
+**/final-adapter/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.tar.gz
+GPU/report/preview/

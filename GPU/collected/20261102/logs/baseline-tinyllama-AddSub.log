@@ -1,0 +1,793 @@
+/home/users/ntu/cila001/AI6130-Ass2-G2605698H/env/lib/python3.12/site-packages/huggingface_hub/file_download.py:1142: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 1/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 2/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 3/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 4/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 5/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 6/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 7/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 8/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 9/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 10/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 11/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 12/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 13/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 14/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 15/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 16/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 17/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 18/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 19/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 20/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 21/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 22/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 23/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 24/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 25/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 26/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 27/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 28/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 29/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 30/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 31/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 32/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 33/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 34/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 35/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 36/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 37/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 38/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 39/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 40/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 41/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 42/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 43/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 44/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 45/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 46/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 47/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 48/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 49/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 50/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 51/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 52/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 53/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 54/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 55/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 56/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 57/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 58/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 59/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 60/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 61/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 62/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 63/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 64/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 65/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 66/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 67/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 68/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 69/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 70/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 71/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 72/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 73/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 74/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 75/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 76/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 77/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 78/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 79/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 80/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 81/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 82/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 83/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 84/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 85/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 86/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 87/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 88/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 89/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 90/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 91/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 92/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 93/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 94/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 95/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 96/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 97/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 98/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 99/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 100/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 101/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 102/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 103/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 104/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 105/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 106/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 107/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 108/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 109/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 110/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 111/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 112/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 113/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 114/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 115/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 116/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 117/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 118/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 119/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 120/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 121/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 122/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 123/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 124/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 125/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 126/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 127/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 128/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 129/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 130/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 131/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 132/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 133/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 134/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 135/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 136/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 137/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 138/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 139/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 140/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 141/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 142/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 143/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 144/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 145/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 146/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 147/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 148/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 149/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 150/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 151/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 152/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 153/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 154/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 155/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 156/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 157/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 158/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 159/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 160/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 161/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 162/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 163/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 164/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 165/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 166/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 167/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 168/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 169/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 170/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 171/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 172/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 173/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 174/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 175/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 176/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 177/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 178/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 179/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 180/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 181/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 182/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 183/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 184/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 185/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 186/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 187/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 188/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 189/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 190/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 191/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 192/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 193/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 194/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 195/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 196/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 197/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 198/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 199/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 200/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 201/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 202/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 203/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 204/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 205/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 206/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 207/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 208/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 209/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 210/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 211/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 212/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 213/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 214/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 215/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 216/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 217/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 218/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 219/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 220/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 221/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 222/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 223/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 224/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 225/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 226/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 227/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 228/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 229/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 230/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 231/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 232/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 233/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 234/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 235/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 236/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 237/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 238/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 239/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 240/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 241/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 242/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 243/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 244/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 245/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 246/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 247/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 248/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 249/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 250/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 251/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 252/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 253/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 254/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 255/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 256/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 257/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 258/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 259/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 260/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 261/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 262/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 263/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 264/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 265/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 266/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 267/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 268/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 269/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 270/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 271/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 272/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 273/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 274/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 275/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 276/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 277/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 278/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 279/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 280/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 281/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 282/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 283/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 284/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 285/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 286/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 287/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 288/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 289/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 290/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 291/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 292/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 293/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 294/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 295/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 296/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 297/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 298/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 299/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 300/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 301/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 302/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 303/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 304/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 305/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 306/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 307/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 308/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 309/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 310/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 311/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 312/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 313/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 314/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 315/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 316/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 317/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 318/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 319/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 320/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 321/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 322/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 323/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 324/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 325/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 326/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 327/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 328/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 329/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 330/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 331/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 332/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 333/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 334/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 335/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 336/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 337/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 338/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 339/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 340/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 341/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 342/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 343/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 344/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 345/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 346/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 347/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 348/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 349/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 350/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 351/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 352/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 353/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 354/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 355/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 356/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 357/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 358/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 359/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 360/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 361/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 362/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 363/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 364/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 365/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 366/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 367/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 368/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 369/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 370/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 371/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 372/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 373/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 374/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 375/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 376/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 377/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 378/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 379/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 380/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 381/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 382/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 383/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 384/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 385/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 386/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 387/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 388/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 389/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 390/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 391/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 392/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 393/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 394/395
+Keyword arguments {'add_special_tokens': False} not recognized.
+AddSub 395/395
+{'completed': True, 'evaluated': 395, 'total': 395, 'correct': 0, 'accuracy': 0.0, 'invalid': 394, 'truncated': 395}

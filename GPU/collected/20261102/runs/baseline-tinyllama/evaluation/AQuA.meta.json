@@ -1,0 +1,59 @@
+{
+  "protocol": "ass2-v1",
+  "baseline_identity": {
+    "model": "tinyllama",
+    "revision": "ff3c701f2424c7625fdefb9dd470f45ef18b02d6",
+    "method": "baseline",
+    "smoke": false,
+    "config": {
+      "protocol": "ass2-v1",
+      "seed": 42,
+      "models": {
+        "tinyllama": "TinyLlama/TinyLlama_v1.1",
+        "openllama": "openlm-research/open_llama_3b_v2"
+      },
+      "methods": [
+        "lora",
+        "adapterp"
+      ],
+      "epochs": 2,
+      "learning_rate": 0.0003,
+      "batch_size": 4,
+      "micro_batch_size": 1,
+      "cutoff_len": 256,
+      "val_set_size": 120,
+      "gradient_checkpointing": true,
+      "precision": "bf16_base_fp32_adapters",
+      "quantization": "none",
+      "lora_r": 8,
+      "lora_alpha": 16,
+      "lora_dropout": 0.05,
+      "bottleneck_size": 256,
+      "eval_steps": 200,
+      "save_steps": 200,
+      "generation": {
+        "do_sample": false,
+        "num_beams": 1,
+        "max_new_tokens": 256,
+        "use_cache": true
+      },
+      "numeric_tolerance": 0.001,
+      "compute_dtype": "bfloat16",
+      "precision_reason": "Fixed training-item diagnostic: FP16 forward losses finite but gradients non-finite; BF16 gradients finite on all four probed items. Apply BF16 uniformly on Ampere GPUs."
+    },
+    "trainable_params": 0,
+    "training_performed": false
+  },
+  "task": "AQuA",
+  "dataset_sha256": "620a4f120aa8c8156fd439d96bee3f4c2f244cf9fe07c8b94eb99bf7ec21b0d7",
+  "generation": {
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 256,
+    "use_cache": true
+  },
+  "scorer_sha256": "6f95937e07ef93bf7828998c0dd64d85db5f392d047fe6f1f487d62df584c954",
+  "driver_sha256": "503921789e773d01858b01bba4e667e4865172e828c1b6a23e70905c96cb9ebf",
+  "teacher_prompt_sha256": "c4afd1af636b683047806f912f34dc5defc7cbf784331105adf5b4b709aca681",
+  "diagnostic_limit": 0
+}

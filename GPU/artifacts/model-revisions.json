@@ -1,0 +1,10 @@
+{
+  "tinyllama": {
+    "id": "TinyLlama/TinyLlama_v1.1",
+    "sha": "ff3c701f2424c7625fdefb9dd470f45ef18b02d6"
+  },
+  "openllama": {
+    "id": "openlm-research/open_llama_3b_v2",
+    "sha": "bce5d60d3b0c68318862270ec4e794d83308d80a"
+  }
+}

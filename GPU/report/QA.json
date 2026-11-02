@@ -1,0 +1,14 @@
+{
+  "pages": 5,
+  "cover_pages": 1,
+  "body_pages": 4,
+  "visual_review": "All five rendered pages inspected; no clipping, overlaps or table overflow.",
+  "evidence_records_verified": 3894,
+  "original_scores_preserved": true,
+  "AI_declaration": true,
+  "student_name": "AGA CILA",
+  "student_id": "G2605698H",
+  "scoring_audit_synthetic_cases": 9,
+  "changed_prediction_sample_reviewed": 20,
+  "sample_seed": 42
+}

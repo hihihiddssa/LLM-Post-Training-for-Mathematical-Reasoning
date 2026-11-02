@@ -1,0 +1,9 @@
+{
+  "completed": true,
+  "evaluated": 395,
+  "total": 395,
+  "correct": 29,
+  "accuracy": 7.341772151898734,
+  "invalid": 288,
+  "truncated": 15
+}

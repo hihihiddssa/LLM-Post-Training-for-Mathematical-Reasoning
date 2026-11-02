@@ -1,0 +1,44 @@
+{
+  "identity_sha256": "fab423cb148711cb419727b0de327752ebbd63c0e8be4e1406364da1ae939616",
+  "hardware": {
+    "python": "3.12.1 (main, Jan 13 2024, 13:26:26) [GCC 11.4.0]",
+    "torch": "2.8.0+cu126",
+    "transformers": "4.38.0",
+    "accelerate": "0.28.0",
+    "peft_file": "/scratch/users/ntu/cila001/AI6130-Ass2-G2605698H/releases/20261101-v1/AI6130_Assignment2/peft/src/peft/__init__.py",
+    "cuda_available": true,
+    "cuda": "12.6",
+    "gpu": "NVIDIA A100-SXM4-40GB",
+    "gpu_memory_bytes": 42406903808
+  },
+  "parameters": {
+    "trainable": 42598400,
+    "total": 3469072000,
+    "percent": 1.2279479930079285
+  },
+  "train_samples": 6731,
+  "validation_samples": 120,
+  "tokenization": {
+    "items": 6851,
+    "capped": 4064
+  },
+  "adapter_config": {
+    "peft_type": "BOTTLENECK",
+    "base_model_name_or_path": "openlm-research/open_llama_3b_v2",
+    "task_type": "CAUSAL_LM",
+    "inference_mode": false,
+    "bottleneck_size": 256,
+    "non_linearity": "tanh",
+    "adapter_dropout": 0.0,
+    "target_modules": [
+      "down_proj"
+    ],
+    "use_parallel_adapter": false,
+    "use_adapterp": true,
+    "scaling": 1.0,
+    "bias": "none",
+    "init_weights": "bert",
+    "modules_to_save": null
+  },
+  "resumed_from": null
+}

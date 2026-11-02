@@ -1,0 +1,57 @@
+{
+  "checked_date": "2026-11-02",
+  "verified_predictions": 3894,
+  "runs": [
+    {
+      "model": "openllama",
+      "method": "baseline",
+      "preparation": "complete",
+      "training": "not_required",
+      "evaluation": "complete",
+      "results_summarized": true
+    },
+    {
+      "model": "tinyllama",
+      "method": "baseline",
+      "preparation": "complete",
+      "training": "not_required",
+      "evaluation": "complete",
+      "results_summarized": true
+    },
+    {
+      "model": "openllama",
+      "method": "adapterp",
+      "preparation": "complete",
+      "training": "complete",
+      "evaluation": "complete",
+      "results_summarized": true
+    },
+    {
+      "model": "openllama",
+      "method": "lora",
+      "preparation": "complete",
+      "training": "complete",
+      "evaluation": "complete",
+      "results_summarized": true
+    },
+    {
+      "model": "tinyllama",
+      "method": "adapterp",
+      "preparation": "complete",
+      "training": "complete",
+      "evaluation": "complete",
+      "results_summarized": true
+    },
+    {
+      "model": "tinyllama",
+      "method": "lora",
+      "preparation": "complete",
+      "training": "complete",
+      "evaluation": "complete",
+      "results_summarized": true
+    }
+  ],
+  "report": "complete_visual_QA_passed",
+  "evidence_archive_sha256": "18f16bccabc247529110c2e7a62a74163855ff231b7168343f793a5278dff040",
+  "report_pdf_sha256": "e7432dea8372b72a8d6f8b6da44a483e90b49f99da7c3a50b58087f73740e3ee"
+}

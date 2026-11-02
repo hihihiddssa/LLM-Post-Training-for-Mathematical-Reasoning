@@ -1,0 +1,511 @@
+/home/users/ntu/cila001/AI6130-Ass2-G2605698H/env/lib/python3.12/site-packages/huggingface_hub/file_download.py:1142: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 1/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 2/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 3/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 4/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 5/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 6/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 7/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 8/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 9/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 10/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 11/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 12/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 13/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 14/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 15/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 16/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 17/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 18/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 19/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 20/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 21/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 22/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 23/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 24/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 25/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 26/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 27/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 28/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 29/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 30/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 31/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 32/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 33/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 34/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 35/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 36/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 37/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 38/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 39/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 40/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 41/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 42/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 43/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 44/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 45/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 46/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 47/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 48/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 49/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 50/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 51/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 52/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 53/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 54/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 55/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 56/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 57/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 58/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 59/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 60/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 61/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 62/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 63/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 64/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 65/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 66/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 67/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 68/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 69/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 70/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 71/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 72/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 73/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 74/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 75/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 76/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 77/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 78/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 79/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 80/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 81/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 82/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 83/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 84/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 85/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 86/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 87/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 88/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 89/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 90/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 91/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 92/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 93/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 94/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 95/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 96/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 97/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 98/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 99/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 100/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 101/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 102/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 103/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 104/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 105/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 106/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 107/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 108/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 109/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 110/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 111/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 112/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 113/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 114/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 115/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 116/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 117/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 118/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 119/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 120/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 121/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 122/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 123/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 124/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 125/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 126/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 127/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 128/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 129/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 130/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 131/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 132/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 133/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 134/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 135/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 136/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 137/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 138/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 139/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 140/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 141/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 142/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 143/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 144/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 145/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 146/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 147/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 148/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 149/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 150/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 151/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 152/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 153/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 154/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 155/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 156/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 157/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 158/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 159/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 160/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 161/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 162/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 163/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 164/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 165/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 166/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 167/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 168/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 169/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 170/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 171/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 172/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 173/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 174/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 175/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 176/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 177/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 178/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 179/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 180/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 181/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 182/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 183/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 184/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 185/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 186/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 187/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 188/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 189/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 190/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 191/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 192/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 193/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 194/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 195/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 196/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 197/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 198/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 199/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 200/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 201/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 202/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 203/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 204/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 205/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 206/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 207/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 208/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 209/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 210/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 211/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 212/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 213/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 214/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 215/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 216/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 217/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 218/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 219/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 220/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 221/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 222/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 223/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 224/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 225/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 226/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 227/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 228/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 229/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 230/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 231/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 232/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 233/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 234/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 235/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 236/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 237/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 238/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 239/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 240/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 241/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 242/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 243/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 244/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 245/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 246/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 247/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 248/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 249/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 250/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 251/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 252/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 253/254
+Keyword arguments {'add_special_tokens': False} not recognized.
+AQuA 254/254
+{'completed': True, 'evaluated': 254, 'total': 254, 'correct': 0, 'accuracy': 0.0, 'invalid': 253, 'truncated': 254}

@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "${PBS_O_WORKDIR:?}"
+module load python/3.12.1-gcc11
+module load cuda/12.8.1
+export HF_HOME="$HOME/AI6130-Ass2-G2605698H/hf-cache" HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1
+export ASS2_PYTHON="$HOME/AI6130-Ass2-G2605698H/env/bin/python" OMP_NUM_THREADS=8
+exec bash cluster/run_cell.sh "${ASS2_MODEL:?}" "${ASS2_METHOD:?}"

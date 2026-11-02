@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "${PBS_O_WORKDIR:?}"
+module load python/3.12.1-gcc11
+module load cuda/12.8.1
+export HF_HOME="$HOME/AI6130-Ass2-G2605698H/hf-cache" HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1 OMP_NUM_THREADS=8
+PY="$HOME/AI6130-Ass2-G2605698H/env/bin/python"
+for task in AQuA AddSub; do
+ "$PY" -u tools/evaluate_baseline.py --model "${ASS2_MODEL:?}" --task "$task" >> "logs/baseline-${ASS2_MODEL}-${task}.log" 2>&1
+done

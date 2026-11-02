@@ -1,0 +1,5 @@
+# Preserve byte hashes of datasets, source snapshots and prediction journals.
+* -text
+*.sh text eol=lf
+*.pbs text eol=lf
+*.md text eol=lf
