@@ -172,4 +172,4 @@ T4 execution is documented in the Colab workflow as a candidate profile requirin
 
 ## License and attribution
 
-Instructor software and data licenses are retained in [AI6130_Assignment2/](AI6130_Assignment2/). See [UPSTREAM.md](../UPSTREAM.md) for the source commit and the included dataset subset.
+Instructor software and data licenses are retained in [AI6130_Assignment2/](../AI6130_Assignment2/). See [UPSTREAM.md](../UPSTREAM.md) for the source commit and the included dataset subset.
